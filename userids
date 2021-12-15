@@ -1,0 +1,12 @@
+if game.Players.LocalPlayer.UserId == 2516121715 or game.Players.LocalPlayer.UserId ==  
+or game.Players.LocalPlayer.UserId == 2955910935 or game.Players.LocalPlayer.UserId ==  or game.Players.LocalPlayer.UserId ==  or game.Players.LocalPlayer.UserId ==  or game.Players.LocalPlayer.UserId == 
+or game.Players.LocalPlayer.UserId == 1117218946 or game.Players.LocalPlayer.UserId ==  or game.Players.LocalPlayer.UserId ==  or game.Players.LocalPlayer.UserId ==  or game.Players.LocalPlayer.UserId ==  or game.Players.LocalPlayer.UserId == or game.Players.LocalPlayer.UserId == 
+or game.Players.LocalPlayer.UserId == 1040736347 or game.Players.LocalPlayer.UserId ==  or game.Players.LocalPlayer.UserId ==  or game.Players.LocalPlayer.UserId ==  or game.Players.LocalPlayer.UserId ==  or game.Players.LocalPlayer.UserId ==  or game.Players.LocalPlayer.UserId ==  
+or game.Players.LocalPlayer.UserId == 3056625690 or game.Players.LocalPlayer.UserId ==  or game.Players.LocalPlayer.UserId ==  or game.Players.LocalPlayer.UserId ==  or game.Players.LocalPlayer.UserId ==  or game.Players.LocalPlayer.UserId ==  then
+else
+game.Players.LocalPlayer:Kick("Not Whitelisted.")
+end
+game.StarterGui:SetCore("SendNotification", {
+	Title = "Whitelisted,Copy-ware",
+	Text = 'Enabled!',
+	Duration = 2,
